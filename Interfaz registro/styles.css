@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding: 0;
+    line-height: 1.6;
+    background-image: url('imagen.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: #5397c2;
+    
+    
+}
+header {
+    background-color: #202321;
+    color: white;
+    padding: 10px 20px;
+    text-align: right;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+h1{
+    color: #fff;
+}
+
+h2{
+    color: #fff;
+}
+.right-links {
+    display: right;
+}
+.right-links a {
+    color: rgb(247, 245, 245);
+    margin-left: 70px;
+    text-decoration: none;
+}
+
+.service{
+    color: #fff;
+}
+.titulo {
+    margin: 50px auto;
+    max-width: 400px;
+}
+.hero {
+    color: #fff;
+    padding: 0px 0;
+    text-align: center;
+}
+.container {
+    color: #fff;
+    max-width: 1200px;
+    margin-left: 70px;
+    margin: 10px auto ;
+    padding: 20px;
+    border: 5px solid #ccc;
+    
+  }
+  
+  .form {
+    max-width: 800px;
+    margin-left: 20px;
+    margin: 10px auto ;
+    padding: 2px;
+    border: 5px solid #ccc;
+    text-align: center;
+    flex-direction: column;
+    
+  }
+  
+  input,
+  button {
+    margin-bottom: 40px;
+    padding: 10px;
+    font-size: 50px;
+    max-width: 800px;
+    margin-left: 20px;
+    text-align: center;
+  }
+  
+  .type {
+    color: #e41818;
+  }  
+  button {
+    cursor: pointer;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+
+
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #5397c2;
+    color: #1c1a1a;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #b93e3e;
+}
+
+.btnr{
+    
+    padding: 10px 20px;
+    margin: 100px;
+    color: #1c1a1a;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+    background-color: #5397c2;
+    text-align: center;
+    display: right;
+    font-size: 50px;
+    max-width: 1000px;
+    margin-left: 600px;
+    
+}
+
+.btni{
+    padding: 10px 90px;
+    margin: 100px;
+    color: #1c1a1a;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+    background-color: #5397c2;
+    text-align: center;
+    display: right;
+    font-size: 50px;
+    max-width: 1000px;
+    margin-left: 600px;
+
+}
+.btn-registrar{
+    color: #d04040;
+    display: right;
+}
+footer {
+    background: rgba(0, 0, 0, 0.5); /* Fondo semi-transparente */
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    bottom: 0;
+    width: 100%;
+}
+
+
+.register-form{
+   
+    max-width: 500px;
+    margin-left: 10px;
+    margin: 10px auto ;
+    padding: 80px;
+    border: 5px solid #ccc;
+
+}
